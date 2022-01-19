@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I am Rushali!</h1>
-<h3 align="center">I'm a tech enthusiast, a budding web developer with some designing skills!(maybe)(maybe)!</h3>
+<h3 align="center">I'm a tech enthusiast, a budding web developer with some designing skills!(maybe)</h3>
 
 - 🌱 Currently learning **backend and DSA!**
 
