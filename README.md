@@ -5,6 +5,8 @@
 
 - 🌱 Currently learning **backend and DSA!**
 
+- 💜 In love with **Vue JS and Vuetify**
+
 - 👯 Looking to collaborate on **frontend projects.**
 
 - ⚡ Working on myself to bring out the best in me!
